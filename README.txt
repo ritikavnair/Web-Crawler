@@ -53,10 +53,6 @@ This code requires the following software packages for it to run successfully:
    by the crawler.
 
 
-------------------------------------
-Maximum depth reached for Task 1 = 3
-Maximum depth reached for Task 2 = 6
--------------------------------------
 
 References:
 -----------
